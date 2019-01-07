@@ -1,0 +1,167 @@
+@charset "UTF-8";
+/* CSS Document */
+
+
+h1, h2, h3{color:#7D7D7D;}
+
+#header{
+	background-color: #FFFF33;
+}
+
+nav a { padding: 10px 20px; }
+
+nav a:link, nav a:visited{color: #7D7D7D;}
+
+nav a:hover{
+	background-color: #FFF;
+}
+
+nav ul{margin-left: 20px;
+	   padding-left: 0;
+	   white-space: nowrap;
+	   text-align: center;}
+
+nav li{display: inline;
+		list-style-type: none;}
+
+#middle{
+	background-color: #FFF;
+}
+
+footer{
+	background-color: #FFFF33;
+}
+
+footer a img{
+	display: block;
+	padding: 5px; 
+	margin-left: auto;
+}
+
+/*
+header{background-color:#000;
+	   height:60px;
+	   padding-top: 10px;
+	   text-align:center;
+	   line-height: 100%;
+	   margin-bottom:0;}
+
+h1{color:#FFF;}
+
+h2{color:#FFF;
+   text-align:center;}
+
+h3{text-align: center;}
+
+#wrapper{width: 80%;
+		 margin:auto;
+		 background-color:#000;
+		 border-radius: 25px;
+		 opacity: 0.9;}
+
+body{background: url(Shrek1.png);
+	 background-repeat: no-repeat;
+	 background-position: center;
+	 background-size: cover;}
+
+#op{width: 100%;
+	margin:auto;
+	background-color:#666;
+	opacity: 0.8;
+	border-radius: 25px;}
+
+.button {
+    border: none;
+	padding: 15px 10px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+}
+
+nav ul{margin-left: 20px;
+	   padding-left: 0;
+	   white-space: nowrap;
+	   text-align: center;}
+
+nav li{display: inline;
+		list-style-type: none;}
+
+nav a { padding: 3px 10px; }
+
+nav a:link, nav a:visited{color: #FFF;
+						  background-color: #7FFF00;}
+
+nav a:hover{color: #fff;
+			 background-color: #369;
+			 text-decoration: none;}
+			 
+#background{width: 80%;
+		 	margin:auto;
+		 	background-color:#7FFF00;
+			border-radius: 25px 25px 25px 25px;}
+
+#final{width: 80%;
+		 	margin:auto;
+		 	background-color:#7FFF00;}
+	  
+#final p{text-align: center;
+		 font-family: 'Archivo Black', sans-serif;}
+
+#about{width: 80%;
+	   margin:auto;
+	   background-color:#7FFF00;
+	   font-family: 'Rajdhani', sans-serif;}
+
+img {
+    border-radius: 8px;
+	display:block;
+	margin-left:auto;
+	margin-right:auto;
+}
+
+#panel, #panel2, #panel3, #panel4, #panel5, #flip {
+    padding: 5px;
+    text-align: center;
+    background-color: #0C0;
+    border: solid 1px #000;
+}
+
+#panel {
+    padding: 50px;
+    display: none;
+}
+
+#panel2 {
+    padding: 50px;
+    display: none;
+}
+
+#panel3 {
+    padding: 50px;
+    display: none;
+}
+
+#panel4 {
+    padding: 50px;
+    display: none;
+}
+#panel5 {
+    padding: 50px;
+    display: none;
+}
+
+footer{
+	width: 80%;
+	margin:auto;
+	background-color:#7FFF00;
+	border-radius: 25px 25px 25px 25px;
+	text-align:center;
+}
+
+audio{
+	width: 300px;
+  	margin: 0 auto;
+}*/
