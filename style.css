@@ -19,7 +19,7 @@ h1, h2, h3{color:#7D7D7D;}
 }
 
 #middle{
-	background-color: #FFF;
+	background: url(bricks.jpg);
 }
 
 #middle img{
