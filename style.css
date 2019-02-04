@@ -22,12 +22,6 @@ h1, h2, h3{color:#7D7D7D;}
 	background: url(bricks.jpg);
 }
 
-#middle img{
-	display: block;
-	margin-right: auto;
-	margin-left: auto;
-}
-
 
 #header nav a { 
 	text-decoration: none;
